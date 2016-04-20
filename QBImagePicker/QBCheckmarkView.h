@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-IB_DESIGNABLE
 @interface QBCheckmarkView : UIView
 
 @property (nonatomic, assign) IBInspectable CGFloat borderWidth;
